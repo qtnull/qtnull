@@ -15,6 +15,7 @@ We're creating a visual novel, but it might take a while, so buckle up, this is 
 
 Girl(s) And Scary are looking for visual novel ideas, writers, illustrators, artists, music producers, and more programmers, reach us by sending an e-mail: qtnull@ccloud.cf
 
+My *Motto*: *Carpe diem, tempus fugit* (As the time flies, enjoy the present)
 <!--
 **qtnull/qtnull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
