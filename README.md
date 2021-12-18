@@ -34,7 +34,7 @@ My *Motto*: *Carpe diem, tempus fugit* (As the time flies, enjoy the present)
 - ⚡ 我目前在玩的游戏: <span title="某位认识的人拉我入了这个无底洞">**_原神_**</span>、欧洲卡车模拟器 2、*亿堆 Galgame*、osu!
 - 我会的语言：中文 ~~(废话)~~、西班牙语、英语。会一丢丢（就几个单词而已）德语，法语和日语。
 
-Girl(s) And Scary 正在寻找 Galgame 的剧情电子、作家、画师、艺术家、音乐制作者、还有程序媛/猿，如果你对我们感兴趣或向加入我们的话，可以联络：qtnull@ccloud.cf
+Girl(s) And Scary 正在寻找 Galgame 的剧情点子、作家、画师、艺术家、音乐制作者、还有程序媛/猿，如果你对我们感兴趣或向加入我们的话，可以联络：qtnull@ccloud.cf
 
 我的座右铭：*Carpe diem, tempus fugit* (时间飞逝，享受现时)。
 
