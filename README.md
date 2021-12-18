@@ -21,7 +21,7 @@ My *Motto*: *Carpe diem, tempus fugit* (As the time flies, enjoy the present)
 
 ### 嗨! 👋
 
-我是QTØ，CH说的那位“隔壁QT”，我是 Girl(s) And Scary (缩写 GAS) 组的程序猿。我偶尔会写一些很短的剧本或短篇小说，我还会搞音乐，就是品质有点说不过去。
+我是 QTØ，CH 说的那位“隔壁QT”，我是 Girl(s) And Scary 组 (缩写 GAS，组长 @CHonesetDoPa) 的程序猿。我偶尔会写一些很短的剧本或短篇小说，我还会搞音乐，就是品质有点说不过去。
 
 我们 GAS 组正在开发一款 Galgame，就是工程时间有亿点点长。
 
@@ -30,7 +30,7 @@ My *Motto*: *Carpe diem, tempus fugit* (As the time flies, enjoy the present)
 - 📫 联系方式：qtnull@ccloud.cf （你可以给我发合作邀请，问题，批评，等等等等....）
 - 😄 QTØ 名字的性别 (Pronoun) 是 He/Him
 - ⚡ 我目前在玩的游戏: <span title="某位认识的人拉我入了这个无底洞">**_原神_**</span>、欧洲卡车模拟器 2、*亿堆 Galgame*、osu!
-- 我会的语言：中文 ~~(废话)~~、西班牙语、英语。会一丢丢（就几个单词而已）的德语，法语和日语。
+- 我会的语言：中文 ~~(废话)~~、西班牙语、英语。会一丢丢（就几个单词而已）德语，法语和日语。
 
 Girl(s) And Scary 正在寻找 Galgame 的剧情电子、作家、画师、艺术家、音乐制作者、还有程序媛/猿，如果你对我们感兴趣或向加入我们的话，可以联络：qtnull@ccloud.cf
 
