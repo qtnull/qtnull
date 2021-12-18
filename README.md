@@ -21,7 +21,8 @@ My *Motto*: *Carpe diem, tempus fugit* (As the time flies, enjoy the present)
 
 ### 嗨! 👋
 
-我是 QTØ，CH 说的那位“隔壁QT”，我是 Girl(s) And Scary 组 (缩写 GAS，组长 @CHonesetDoPa) 的程序猿。我偶尔会写一些很短的剧本或短篇小说，我还会搞音乐，就是品质有点说不过去。
+我是 QTØ，CH 说的那位“隔壁QT”，我是 Girl(s) And Scary 组的程序猿。我偶尔会写一些很短的剧本或短篇小说，我还会搞音乐，就是品质有点说不过去。
+\*: (Girl(s) And Scary 的缩写是 GAS，我们组长是 [@CHonesetDoPa](https://github.com/CHonesetDoPa/))
 
 我们 GAS 组正在开发一款 Galgame，就是工程时间有亿点点长。
 
