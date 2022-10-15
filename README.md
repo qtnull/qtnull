@@ -1,5 +1,4 @@
 # About me
-![Alt text](./logoIE.svg)
 
 ### Hi there! 👋
 This is QTØ, a developer over at Girl(s) And Scary (Lead by @CHonesetDoPa). I occasionally write scripts and short stories, I also make some really awful music.
