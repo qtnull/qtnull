@@ -37,6 +37,8 @@ Girl(s) And Scary 正在寻找 Galgame 的剧情点子、作家、画师、艺�
 
 我的座右铭：*Carpe diem, tempus fugit* (时间飞逝，享受现时)。
 
+好想捡到一个可爱的天使女孩子然后被她宠成废人。
+
 <!--
 **qtnull/qtnull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
