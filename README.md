@@ -14,7 +14,7 @@ We're creating a visual novel, but it might take a while, so buckle up, this is 
 
 Girl(s) And Scary are looking for visual novel ideas, writers, illustrators, artists, music producers, and more programmers, reach us by sending an e-mail: qtnull@nekoc.cc
 
-My *Motto*: *Carpe diem, tempus fugit* (As the time flies, enjoy the present)
+My *Motto*: *Ad astra, ultra lumen* (To the stars, beyond the light)
 
 <hr>
 
@@ -35,9 +35,7 @@ My *Motto*: *Carpe diem, tempus fugit* (As the time flies, enjoy the present)
 
 Girl(s) And Scary 正在寻找 Galgame 的剧情点子、作家、画师、艺术家、音乐制作者、还有程序媛/猿，如果你对我们感兴趣或向加入我们的话，可以联络：qtnull@nekoc.cc
 
-我的座右铭：*Carpe diem, tempus fugit* (时间飞逝，享受现时)。
-
-好想捡到一个可爱的天使女孩子然后被她宠成废人。
+我的座右铭：*Ad astra, ultra lumen* (到星空，超越光)。
 
 <!--
 **qtnull/qtnull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
